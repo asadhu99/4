@@ -1,0 +1,98 @@
+body {
+    background-color: royalblue;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 500px;
+}
+
+#welcome {
+    background-size: cover;
+    background-image: url(IMG_3229.jpg);
+    image-orientation: 
+}
+
+h1 {
+    font-family: cursive;
+    color: chocolate;
+}
+
+p {
+    color: coral;
+    font-family: cursive;
+    
+}
+
+#links {
+    text-align: right;
+    font-size: 25px;
+    text-decoration: none;
+    background-color: beige;
+    padding-bottom: 5px;
+    
+}
+
+header a{
+
+    font-family: impact;
+    color: goldenrod;
+    font-size: 40px;
+    padding: 10px;
+    text-shadow: 3px 2px black;
+}
+
+header {
+    background-color: beige
+}
+
+
+
+footer{
+    width: 100%;
+    position: fixed;
+  left: 0;
+  bottom: 0;
+     background-color: lightyellow;
+    padding: 10px;
+    text-align: center;
+}
+
+footer p {
+    color: black;
+    font-family: inherit;
+}
+
+button{
+  background-color: limegreen;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+}
+
+button:hover, #button:active {
+  background-color: lawngreen;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+}
+
+img {
+    border-radius: 100%;
+    height: 200px;
+    width: 50%;
+}
+
+.benefits{
+    width: 100%;
+    float: left;
+    margin-bottom: 10%;
+}
+
+
+.pic{
+    width: 33.3%;
+    float: left;
+}
+
+button{
+    margin-bottom: 15%;
+}
